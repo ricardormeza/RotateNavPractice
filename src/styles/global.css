@@ -1,12 +1,12 @@
 html {
     box-sizing: border-box;
-    font-size: 62.5%;
     font-family: var(--principal-font);
+    font-size: 62.5%;
 }
 *, *:before, *:after {
-    box-sizing: inherit;
+    box-sizing: border-box;
 }
-.contenedor{
+.container{
     margin: 0 auto;
     max-width: 1200px;
     width: 100%;

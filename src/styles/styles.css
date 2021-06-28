@@ -1,3 +1,9 @@
 @import url(../styles/normalize.css);
 @import url(../styles/variables.css);
 @import url(../styles/global.css);
+
+/* body */
+body{
+    margin: 0;
+    overflow-x: hidden;
+}
